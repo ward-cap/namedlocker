@@ -1,3 +1,3 @@
-module oya.to/namedlocker
+module github.com/ward-cap/namedlocker
 
-go 1.14
+go 1.23
